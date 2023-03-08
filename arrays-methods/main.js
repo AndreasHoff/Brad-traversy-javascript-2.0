@@ -9,5 +9,5 @@ arr.shift();
 x = arr.includes(233);
 
 x = arr.indexOf(23);
-d;
+
 console.log(x);
